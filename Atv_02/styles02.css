@@ -1,0 +1,33 @@
+
+nav {
+    text-align: center;
+    margin: 20px 0;
+}
+
+nav a {
+    display: inline-block;
+    background-color: #3498db;
+    color: white;
+    padding: 10px;
+    border-radius: 8px;
+    width: 20vw;
+    text-align: center;
+    text-decoration: none;
+    margin: 0 5px;
+}
+
+section {
+    text-align: center;
+}
+
+section input[type="text"] {
+    display: inline-block;
+    width: 45%;
+    margin: 0 5%;
+    padding: 10px;
+    background-color: #f1f1f1;
+    color: #333;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
