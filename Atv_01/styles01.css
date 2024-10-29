@@ -1,0 +1,29 @@
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+main {
+    text-align: center;
+    margin: 20px;
+}
+
+main p {
+    display: inline;
+    background-color: #f1f1f1;
+    color: #333;
+    border: 2px solid #4CAF50;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 5px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
